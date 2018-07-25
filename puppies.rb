@@ -41,7 +41,7 @@ def new_animal(puppies, cats)
   "slow down"
 end
 end
-puts new_animal
+puts new_animal(2,1)
   
   
   
